@@ -1,5 +1,5 @@
 # db-abridged-soundboard-change-log
-Update 2.0 - (UI and Optimization) -  Mostly Boring tech stuff
+Update 2.1 - (UI and Optimization) -  Mostly Boring tech stuff
 - Added moving tabs to allow for more sounds to be added without compromising space for names.
 - Removed the issue that allows more than one sound to play at a time.
 - Added the option for favourites. Hold on a button to add a sound to your list. Click on the remove from favourites button to remove it. The button will be removed when your restart the app.(Yeah I know it's a pain)
