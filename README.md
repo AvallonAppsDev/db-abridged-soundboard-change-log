@@ -1,5 +1,5 @@
 # db-abridged-soundboard-change-log
-## Update 2.3 - HILLBILLY UPDATEEEEEEEEEEEE!
+ # Update 2.3 - HILLBILLY UPDATEEEEEEEEEEEE!
 - Added 34 goku sounds. Sorry for delaying and being lazy... got no reasoning besides that.
 - Next update will have either piccolo, cell, roshi, bulma, or freeza. Email me with what you want.
 - Keep supporting TFS and the official release.
