@@ -1,4 +1,13 @@
 # db-abridged-soundboard-change-log
+ Update 2.4 - Jolly Sanchez bloomers
+ - Added sounds for piccolo, bulma and krillin finally.
+ - Added additional sounds for vegeta and nappa(for the dude who wanted the ghost nappa sounds I only got to add two for this update  but I will have more for following updates.)
+ - Finished optimizing the app so the file size is much smaller(the file size is currently 20.6 mb vs the former 39.1 mb)
+ - Added in app purchase to remove ads(I hope it works because I'm very poor and I need the money this could bring lol). I struggled ith the implementation so let me know if it works for you.
+ - Next update will either be a villain update or another z fighter update(unsure for now)
+ - I have currently begun development on a new game and due to this will no longer be able to focus on this app as much as I used too and as a result I will be releasing updates less frequently.
+ - Please SUPPORT THE OFFICIAL RELEASE AND TEAMTHREESTAR.
+ 
  Update 2.3 - HILLBILLY UPDATEEEEEEEEEEEE!
 - Added 34 goku sounds. Sorry for delaying and being lazy... got no reasoning besides that.
 - Next update will have either piccolo, cell, roshi, bulma, or freeza. Email me with what you want.
